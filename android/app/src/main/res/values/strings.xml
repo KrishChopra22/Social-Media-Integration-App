@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">social integration</string>
+<string name="facebook_app_id">1809802599386384</string>
+<string name="fb_login_protocol_scheme">fb1809802599386384</string>
+<string name="facebook_client_token">abc</string>
+</resources>
